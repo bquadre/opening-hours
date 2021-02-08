@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/bquadre/.dotnet/store/|arch|/|tfm|",
+      "/Users/bquadre/.nuget/packages"
+    ]
+  }
+}
